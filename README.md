@@ -1,4 +1,3 @@
-# King_Spy-Problem-Game
 ```markdown
 # King and Spy Game
 
@@ -36,17 +35,6 @@ The project is a grid-based strategy game where players experience a dynamic cha
    ```bash
    python king_spy_game.py
    ```
-
-## Rules
-- The king can move one cell in any direction (up, down, left, right) each turn.
-- The spies move toward the king, attempting to intercept him.
-- The king wins by collecting the treasure and escaping the grid's edge.
-- The spies win by catching the king.
-
-## Future Enhancements
-- Add more spies or obstacles to increase difficulty.
-- Introduce a scoring system based on the number of moves.
-- Allow user input to control the spies or king.
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute as per the license terms.
